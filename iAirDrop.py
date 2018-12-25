@@ -2,7 +2,7 @@ import time,datetime,os,csv
 
 interval = 15
 token = '\"tokencontract\"'
-sender = '\"yourccount\"'
+sender = '\"youraccount\"'
 asset = '\"100.0000 SYM\"'
 memo = '\" Your Memo \"'
 walletName = "walletName"
