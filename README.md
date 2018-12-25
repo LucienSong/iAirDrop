@@ -6,7 +6,7 @@ AirDrop Tool for EOS tokens
 https://developers.eos.io/eosio-home/v1.7.0/docs/getting-the-software
 
 ## 2.Clone iAirDrop
-git clone https://github.com/LucienSong/iAirDrop.git iAirDrop
+`git clone https://github.com/LucienSong/iAirDrop.git iAirDrop`
 
 ## 3.Config
 ```
