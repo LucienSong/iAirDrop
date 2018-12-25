@@ -21,7 +21,6 @@ walletPass = "PW5-------walletPass--------GA"
 
 
 def send(accout):
-    
     os.system("cleos -u http://mainnet.eoscalgary.io --wallet-url=http://127.0.0.1:8900 push action " + token + " transfer '[ " + sender + " , \"" + accout + "\" , " + asset + " , " + memo + " ]' -p " + sender)
 
 def logPrint(msg):
