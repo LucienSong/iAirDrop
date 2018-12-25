@@ -1,12 +1,23 @@
 import time,datetime,os,csv
 
-interval = 15
-token = '\"tokencontract\"'
-sender = '\"youraccount\"'
+# Sleep seconds
+interval = 15 
+
+# token contract account
+token = '\"yourtokens\"'
+
+# your account
+sender = '\"account\"'
+
+# amount and symbol
 asset = '\"100.0000 SYM\"'
-memo = '\" Your Memo \"'
-walletName = "walletName"
-walletPass = "PW5JMfG---walletPass---------3BGA"
+
+# memo
+memo = '\" blablabla \"'
+
+# wallet name and password
+walletName = "wallet"
+walletPass = "PW5-------walletPass--------GA"
 
 
 def send(accout):
