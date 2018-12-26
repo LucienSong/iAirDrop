@@ -36,5 +36,5 @@ walletPass = "PW5-------walletPass--------GA"
 ## 5.Start
 ```
 cd iAirDrop
-pyton iAirDrop.py
+python iAirDrop.py
 ```
